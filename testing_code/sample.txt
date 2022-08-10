@@ -1,0 +1,28 @@
+dict = Sheraton Brook HOUSI FEB-28-2022 15:13 PAUL
+
+Date Reference Description Charges (USD) Credits (USD)
+19-FEB-22  RT1021 Room Chrg - Special Corp 130.00
+19-FEB-22  RT1021 State Cost Recovery Fee 0.65
+19-FEB-22. RT1021 State Tax 7.80
+19-FEB-22  RT1021 City/Local Tax 14.30
+20-FEB-22 40810000 Ella's Table-Restaurant 25.00
+20-FEB-22 RT1021 Room Chrg - Special Corp 130.00
+20-FEB-22 RT1021 State Cost Recovery Fee 0.65
+20-FEB-22 RT1021 State Tax 7.80
+20-FEB-22 RT1021 City/Local Tax 14.30
+21-FEB-22 44340000 Ella's Table-Restaurant 25.00
+21-FEB-22  RT1021 Room Chrg - Special Corp 130.00
+21-FEB-22  RT1021 State Cost Recovery Fee 0.65
+21-FEB-22 RT1021 State Tax 7.80
+21-FEB-22  RT1021 City/Local Tax 14.30
+22-FEB-22 47290000 Ella's Table-Restaurant 25.00
+22-FEB-22 49270000 Ella's Table-Restaurant 35.00
+22-FEB-22 RT1021 Room Chrg - Special Corp 130.00
+22-FEB-22 RT1021 State Cost Recovery Fee 0.65
+22-FEB-22  RT1021 State Tax 7.80
+22-FEB-22 RT1021 City/Local Tax 14.30
+23-FEB-22 50480000 Ella's Table-Restaurant 25,00
+23-FEB-22  RT1021 Room Chrg - Special Corp 130.00
+
+_ ee _
+
